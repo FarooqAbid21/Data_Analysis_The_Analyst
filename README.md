@@ -3,3 +3,5 @@ Python Lectures & Practice Notebook
 
 [DataFrame_Eco.ipynb](https://github.com/user-attachments/files/27968659/DataFrame_Eco.ipynb)
 Data Analysis Using Pandas
+
+[Ecommerce_analysis.ipynb]
