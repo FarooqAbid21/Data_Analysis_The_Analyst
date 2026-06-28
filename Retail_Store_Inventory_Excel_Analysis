@@ -1,0 +1,26 @@
+Practice Data Analysis in Microsoft Excel
+
+This repository contains a collection of Excel exercises focused on learning and practicing essential data analysis techniques using Microsoft Excel. The workbook demonstrates real-world data preparation, text manipulation, statistical analysis, lookup functions, conditional formulas, and reporting through Pivot Tables and charts.
+
+### Topics Covered:
+
+- Data Cleaning and Formatting
+- Text Functions (CONCAT, PROPER, UPPER, LOWER)
+- Date Extraction Functions
+- IF Statements and Logical Functions
+- Statistical Functions (SUM, AVERAGE, MEDIAN, MODE)
+- Conditional Functions (SUMIF, COUNTIF, AVERAGEIF, SUMIFS, COUNTIFS)
+- Text to Columns (Data Splitting)
+- VLOOKUP and MATCH Functions
+- Pivot Tables
+- Basic Data Visualization
+
+### Learning Objectives:
+
+- Prepare and clean structured datasets
+- Perform statistical and conditional analysis
+- Retrieve data efficiently using lookup functions
+- Summarize large datasets with Pivot Tables
+- Build a strong foundation for Excel-based data analysis
+
+This workbook serves as a hands-on practice project for beginners and aspiring data analysts who want to strengthen their Microsoft Excel skills before moving to advanced tools such as Power BI, SQL, Python, and Tableau.
