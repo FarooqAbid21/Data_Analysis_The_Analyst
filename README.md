@@ -4,4 +4,5 @@ Python Lectures & Practice Notebook
 [DataFrame_Eco.ipynb](https://github.com/user-attachments/files/27968659/DataFrame_Eco.ipynb)
 Data Analysis Using Pandas
 
-[Ecommerce_analysis.ipynb]
+[Ecommerce_analysis.ipynb](https://github.com/user-attachments/files/27968659/Ecommerce_analysis.ipynb)
+Exploartory Data Analysis and Customer Segmentation using python's libraries
